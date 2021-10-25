@@ -1,0 +1,19 @@
+{
+  "name": "harver",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "@mapbox/blend": "^2.0.1",
+    "fs": "^0.0.1-security",
+    "minimist": "^1.2.5",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}
